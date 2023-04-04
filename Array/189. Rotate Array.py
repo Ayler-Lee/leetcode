@@ -18,3 +18,6 @@ class Solution(object):
         reverse(0, len(nums) - 1)
         
         return nums
+
+for i in range(1, 3, 2):
+    print(i)
